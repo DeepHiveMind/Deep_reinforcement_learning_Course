@@ -2,12 +2,12 @@
 
 <p>  Deep Reinforcement Learning Course is a free series of blog posts and videos 🆕 about Deep Reinforcement Learning, where we'll <b>learn the main algorithms, and how to implement them with Tensorflow.</b>
 
-📜The articles explain the concept from the big picture to the mathematical details behind it.
-
-📹 The videos explain how to create the agent with Tensorflow </b></p>
 
 
-## 📜 Part 1: Introduction to Reinforcement Learning [ARTICLE](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) <br><br>
+
+## 📜 Part 1: Introduction to Reinforcement Learning 
+
+### [ARTICLE](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) <br><br>
 
 ## Part 2: Q-learning with FrozenLake <br>
 ### 📜 [ARTICLE](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe) // [FROZENLAKE IMPLEMENTATION](https://github.com/simoninithomas/Deep_reinforcement_learning_Course/blob/master/Q%20learning/FrozenLake/Q%20Learning%20with%20FrozenLake.ipynb)<br>
